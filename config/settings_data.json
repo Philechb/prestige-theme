@@ -107,6 +107,7 @@
           "use_sticky_header": true,
           "logo": "shopify://shop_images/Black_White_Minimalist_Initials_Monogram_Jewelry_Logo_copie.png",
           "logo_max_width": 140,
+          "mobile_logo_max_width": 90,
           "navigation_menu": "main-menu",
           "navigation_style": "center",
           "enable_transparent_header": true,
@@ -335,7 +336,7 @@
           "collection_MgEtpz": {
             "type": "collection",
             "settings": {
-              "collection": "ralph-lauren",
+              "collection": "rimowa",
               "title": "",
               "grid_items_count": 4,
               "button_text": "View all products"
@@ -384,6 +385,7 @@
               "title": "Légèreté et finesse",
               "button_1_text": "",
               "button_1_link": "",
+              "button_2_text": "",
               "button_2_link": ""
             }
           },
